@@ -1,0 +1,102 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 10%;
+}
+
+.banner {
+    text-align: center;
+}
+
+.palette {
+    padding: 10px;
+    margin: 10px auto;
+    border: 2px double Black;
+}
+
+.color-swatch {
+    width: 100%;
+}
+
+.panel {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    margin: 15px auto;
+    min-height: 100px;
+}
+
+.winter-wizard {
+    background-color: #A0E6FF;
+}
+
+.blue-magenta {
+    background-color: #A0A0FF;
+}
+
+.pale-violet {
+    background-color: #CC99FF;
+}
+
+.alluring-apricot {
+    background-color: #FFC0A0;
+}
+
+.metallic-orange {
+    background-color: #DA680F;
+}
+
+.upsdell-red {
+    background-color: #AE2029;
+}
+
+.font-panel {
+    display: inline-block;
+    width: 50%;
+}
+
+.underline{
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.roboto-condensed {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.noto-sans {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.barlow {
+    font-family: 'Barlow', sans-serif;
+}
+
+.heading h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.subheading h2 {
+    font-weight: 600;
+    font-size: 18px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.paragraph p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Barlow', sans-serif;
+}
